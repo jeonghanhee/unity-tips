@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public static class CameraUtils 
+public static class RealtimeCameraUtils 
 {
     public static bool IsCamera(Renderer renderer)
     {

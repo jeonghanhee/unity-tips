@@ -1,2 +1,2 @@
 # unity-tips
-Unity Engine Tips Collection
+UnityEngine Tips Collections
